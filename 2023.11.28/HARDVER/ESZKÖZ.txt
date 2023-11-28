@@ -1,0 +1,6 @@
+-RAM
+-alaplap
+-CPU
+-videókártya
+-tápegység
+-SSD/HDD

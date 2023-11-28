@@ -1,0 +1,5 @@
+-Notepad    .txt
+-Excel      .xls
+-Word       .doc
+-Paint      .png  .jpeg
+-Powerpoint   .pptx 

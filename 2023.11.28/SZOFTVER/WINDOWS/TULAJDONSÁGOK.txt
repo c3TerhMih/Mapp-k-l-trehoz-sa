@@ -1,0 +1,2 @@
+A Windows 10-ben számos újdonság mellett új memóriatömörítési eljárás jelent meg, mellyel a rendszer gyorsabb hozzáférést biztosít az alkalmazásoknak az adatokhoz, valamint csökkenti a lapozófájl használatát.
+A fejlesztők visszahelyezték a Start menüt a rendszerbe, így a felhasználók választhatnak, hogy a Start menüt vagy a kezdőképernyőt akarják-e használni.Táblagép módban pedig a csempés felület lett az alapértelmezett.
